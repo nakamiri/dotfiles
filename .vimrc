@@ -37,6 +37,7 @@ NeoBundle 'davidhalter/jedi-vim'
 NeoBundle 'Shougo/neocomplete'
 NeoBundle 'Shougo/unite.vim'
 NeoBundle 'itchyny/lightline.vim'
+NeoBundle 'Shougo/vimfiler.vim'
 
 let g:rsenseHome = "/usr/local/Cellar/rsense/0.3/libexec"
 let g:rsenseUseOmniFunc = 1
